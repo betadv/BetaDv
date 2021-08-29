@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BetaDv
 - 👀 I’m interested in Coding!
 - 🌱 I’m currently learning Javascript (Node JS), Html and CSS!
-- 💞️ I’m looking to collaborate on Nothing Yet. :(
-- ⚒️ I'm currently working on Easy DB! (Easy Database Node JS NPM Package)
+- 💞️ I’m looking to collaborate on Nothing Yet.
+- ⚒️ I'm currently working on Nothing.
