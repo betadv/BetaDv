@@ -11,4 +11,4 @@ ABOUT ME
 
 - ⚒️ I'm currently learning C# (For Unity 2021) to Start a Game Dev Career.
 
-- Also I am absolutely Horrendous at any kind of Art.
+- 🎨 Also I am absolutely Horrendous at any kind of Art.
