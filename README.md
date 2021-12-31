@@ -9,6 +9,6 @@ ABOUT ME
 - 🌱 I currently have Knowledge of Javascript (Node.JS and Vanilla), HTML and CSS.
  I also know some Python, I don't have as much Knowledge as I do in Javascript though.
 
-- ⚒️ I'm currently learning C# (For Unity 2021) to Start a Game Dev Career.
+- ⚒️ I'm currently learning C# (For Unity 2021) to Start Game Development.
 
 - 🎨 Also I am absolutely Horrendous at any kind of Art.
