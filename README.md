@@ -6,3 +6,5 @@ ABOUT ME
  I also know some Python, I don't have as much Knowledge as I do in Javascript though.
 
 - 🎨 I am absolutely Horrendous at any kind of Art.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betadv)](https://github.com/anuraghazra/github-readme-stats)
